@@ -1,4 +1,4 @@
-```gitignore
+
 # Dependencies
 node_modules/
 **/node_modules/
@@ -38,5 +38,5 @@ desktop.ini
 # Local editor settings (optional)
 .vscode/
 .idea/
-```
+
 
